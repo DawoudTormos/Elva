@@ -1,6 +1,4 @@
 
-
-
 String encrypt(String str){
 
 unsigned int i ;
