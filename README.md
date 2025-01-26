@@ -18,4 +18,4 @@ This project is built using an **ESP32** and an **ATmega328P** (with Arduino Boo
   - Interface with the **elevator** to perform measurements and control its operation.  
 
 ### Future Updates
-More details, including circuit designs, setup instructions, and additional functionality, will be added soon.
+More details, including circuit designs, setup instructions, and the links to repos of the code needed for each remaining part of the system.
