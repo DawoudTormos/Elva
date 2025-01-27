@@ -61,7 +61,8 @@ The system interfaces with the following components:
 
 ### Notes:
 
--   The provided code covers the **ESP32 only**.
+-   The provided code covers the **ESP32 only** but below is the link to the another needed repo.
+-   U need to have a good expertise with arduino and Esp32 to continue the steps below and figure out the connections from the code in this repo. I will be adding more files and the connections later.
 -   Additional components and setup steps are required for full functionality.
 -   Integration with the **elevator electrical system** is necessary for measurement and control.
 
